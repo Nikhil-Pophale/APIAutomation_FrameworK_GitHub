@@ -47,6 +47,7 @@ public class Git_CRUD extends BaseTest {
         jsonPath = JsonPath.from(response.asString());
         updatedreponame = jsonPath.getString("name");
         System.out.println(response.asString());
+        System.out.println(updatedreponame);
     }
 
     @Test(dependsOnMethods = "updaterepo")
