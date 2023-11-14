@@ -35,19 +35,17 @@ Jenkins File (It can run on the Jenkins also)
 
 **Integration Scenarios**
 
-Get the Token from POST Request.
+Create a Repository,
 
-Create a Booking,
+Update the Repository
 
-Update the Booking
+Delete the Repository
 
-Delete the Booking
-
-Verify that Booking is deleted.
+Verify that Repository is deleted.
 
 **Project URL**
 
-https://restful-booker.herokuapp.com/apidoc/index.html
+https://github.com
 
 **CRUD OPeration**
 
