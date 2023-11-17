@@ -19,7 +19,8 @@ public class BaseTest {
         payloadManager=new PayloadManager();
         requestSpecification = RestAssured.given()
                 .baseUri(Git_Constants.BaseUrl).contentType(ContentType.JSON).
-                header("Authorization","Bearer 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");
-//
+                header("Authorization","Bearer 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");
+
+
     }
 }

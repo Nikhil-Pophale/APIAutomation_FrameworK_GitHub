@@ -55,5 +55,6 @@ public class Git_CRUD extends BaseTest {
         requestSpecification.basePath(Git_Constants.deleterepo + updatedreponame);
         response = requestSpecification.when().delete();
         validatableResponse = response.then().log().all().statusCode(204);
+        System.out.println("--------------------------------------------------------------");
     }
 }
