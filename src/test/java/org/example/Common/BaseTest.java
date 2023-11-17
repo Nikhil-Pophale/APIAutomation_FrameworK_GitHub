@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeMethod;
 public class BaseTest {
     public static RequestSpecification requestSpecification = RestAssured.given();
     public static Response response;
+    public static String x;
     public static ValidatableResponse validatableResponse;
     public static PayloadManager payloadManager;;
     @BeforeMethod(alwaysRun = true)
@@ -19,7 +20,7 @@ public class BaseTest {
         payloadManager=new PayloadManager();
         requestSpecification = RestAssured.given()
                 .baseUri(Git_Constants.BaseUrl).contentType(ContentType.JSON).
-                header("Authorization","Bearer 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");
-//
+                header("Authorization","Bearer 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");
+
     }
 }
