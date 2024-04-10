@@ -9,23 +9,23 @@ Email : nikhilpophale01@gmail.com
 
 **Tech stack used described below:**
 
-Java 11                 :   Programing language
+Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
-Rest Assured            :   Java library for testing RESTful web services
+Rest Assured  &nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
 
-Maveen                 :   Build & Dependency management
+Maveen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
-TestNg                 :   testing framework ( organize and execute RestAssured tests.)
+TestNg  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute RestAssured tests.)<br />
 
-JEnkins                 :   Execute the Test Cases
+JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
 
-Git                     :   source code management
+Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
 
-Verification and Checkpoints    : AssertJ , SoftAssert
+Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert <br /> 
 
-Allure                 :   to generate reports.
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
 
-Gson, Jackson API  :    Payload management - POJO
+Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 **Project Details**
 
