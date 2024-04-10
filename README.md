@@ -39,7 +39,7 @@ Payload Management
 
 Allure Reporting.( or Report NG)
 
-Jenkins File (It can run on the Jenkins also)
+Jenkins File (It can run on the Jenkins also)<br />
 
 **Integration Scenarios**
 
@@ -49,11 +49,11 @@ Update the Repository
 
 Delete the Repository
 
-Verify that Repository is deleted.
+Verify that Repository is deleted.<br />
 
 **Project URL**
 
-https://github.com
+https://github.com<br />
 
 **CRUD OPeration**
 
@@ -65,12 +65,12 @@ GET Tech language used in  Repository
 
 PUT Update Repository
 
-DELETE - DELETE Repository 
+DELETE - DELETE Repository <br />
 
 
 **Auth**
 
-Token Based => Bearer Tocken
+Token Based => Bearer Tocken<br />
 
 
 **Allure Report > >**
