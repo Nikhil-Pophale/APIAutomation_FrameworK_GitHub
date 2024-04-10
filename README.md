@@ -9,15 +9,23 @@ Email : nikhilpophale01@gmail.com
 
 **Tech stack used described below:**
 
+Java 11                 :   Programing language
 
-Java , Rest Assured
+Rest Assured            :   Java library for testing RESTful web services
 
-Maven, TestNG, Assert J
+Maveen                 :   Build & Dependency management
 
-Payload management - POJO - Gson, Jackson API, Faker 
+TestNg                 :   testing framework ( organize and execute RestAssured tests.)
 
-Allure Report
+JEnkins                 :   Execute the Test Cases
 
+Git                     :   source code management
+
+Verification and Checkpoints    : AssertJ , SoftAssert
+
+Allure                 :   to generate reports.
+
+Gson, Jackson API  :    Payload management - POJO
 
 **Project Details**
 
