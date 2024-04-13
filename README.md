@@ -7,6 +7,8 @@ Author : Nikhill Pophale
 
 Email : nikhilpophale01@gmail.com
 
+**______________________________________________________________________________________________________________________________________________________________**
+
 **Tech stack used described below:**
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
@@ -26,20 +28,20 @@ Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert <br />
 Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
 
 Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
+**______________________________________________________________________________________________________________________________________________________________**
 
 **Project Details**
 
 GitHuB API Automation with Java and Rest Assured
 
-Automation Testcase
+Hybrid Framework to Automate the Test cases
 
-We are using Hybrid Framework to Automate the Test cases
-
-Payload Management
+Payload Management using POJO
 
 Allure Reporting.( or Report NG)
 
 Jenkins File (It can run on the Jenkins also)<br />
+**______________________________________________________________________________________________________________________________________________________________**
 
 **Integration Scenarios**
 
@@ -51,9 +53,12 @@ Delete the Repository
 
 Verify that Repository is deleted.<br />
 
+**______________________________________________________________________________________________________________________________________________________________**
+
 **Project URL**
 
 https://github.com<br />
+**______________________________________________________________________________________________________________________________________________________________**
 
 **CRUD OPeration**
 
@@ -67,11 +72,13 @@ PUT Update Repository
 
 DELETE - DELETE Repository <br />
 
+**______________________________________________________________________________________________________________________________________________________________**
 
 **Auth**
 
 Token Based => Bearer Tocken<br />
 
+**______________________________________________________________________________________________________________________________________________________________**
 
 **Allure Report > >**
 
@@ -79,4 +86,6 @@ Token Based => Bearer Tocken<br />
 ![Screenshot (276)](https://github.com/Nikhil-Pophale/GitHubAPI_Automation_FrameworK/assets/141396302/09ae2079-a5cc-48cb-ab39-e381d6c5f850)
 
 ![Screenshot (277)](https://github.com/Nikhil-Pophale/GitHubAPI_Automation_FrameworK/assets/141396302/1b65e253-27f3-46c8-8b6c-77413cfa1191)
+**______________________________________________________________________________________________________________________________________________________________**
+
 
