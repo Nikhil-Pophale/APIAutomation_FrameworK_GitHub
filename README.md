@@ -1,7 +1,7 @@
 # GitHubAPI_Automation_FrameworK
 
 
-**GitHub API Automation with Rest Assured **
+**GitHub API Automation with Rest Assured**
 
 Author : Nikhill Pophale 
 
